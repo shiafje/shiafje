@@ -1,9 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello!%20I%20am%20Sehyun&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello!%20I'm%20Sehyun&fontSize=40&animation=fadeIn)
 
 
-[![shiafje's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiafje)](https://github.com/shiafje/github-readme-stats)
+<h3 align="center"> My Github Stats 😶</h3>
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiafje&layout=compact)](https://github.com/shiafje/github-readme-stats)
+[![shiafje's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiafje&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift)](https://github.com/shiafje/github-readme-stats)
+
+  <h3 align="center"> Top Langs 😶</h3>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiafje&layout=compact)](https://github.com/shiafje/github-readme-stats)
+</div>
+
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
+
+ 
+
 
 
 
