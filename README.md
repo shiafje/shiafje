@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+shiafje
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiafje)](https://github.com/shiafje/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiafje&layout=compact)](https://github.com/shiafje/github-readme-stats)
+
+
+
 <!--
 **shiafje/shiafje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
