@@ -1,6 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello!%20I%20am%20Sehyun&fontSize=45)
 
-shiafje
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiafje)](https://github.com/shiafje/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiafje&layout=compact)](https://github.com/shiafje/github-readme-stats)
