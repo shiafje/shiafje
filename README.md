@@ -1,15 +1,7 @@
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
 
+
+<div align="center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello!%20I'm%20Sehyun&fontSize=40&animation=fadeIn)
 
 
@@ -20,7 +12,6 @@
  
 
 <h3 align="center"> My Github Stats 😶</h3>
-<div align="center">
 
 [![shiafje's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiafje&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift)](https://github.com/shiafje/github-readme-stats)
 
@@ -30,21 +21,6 @@
 </div>
 
 
-
-
-
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shluxnsal01@gmail.com)](mailto:shluxnsal01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/recordoftheday.tistory.com/)]([https://recordoftheday.tistory.com/])
 
 <!--
 **shiafje/shiafje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
