@@ -13,17 +13,17 @@
 
 <h3 align="center"> My Github Stats 😶</h3>
 
-[![shiafje's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiafje&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift)](https://github.com/shiafje/github-readme-stats)
+[![shiafje's GitHub stats](https://github-readme-stats.vercel.app/api?username=shofjablas&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift)](https://github.com/shofjablas/github-readme-stats)
 
   <h3 align="center"> Top Langs 😶</h3>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiafje&layout=compact)](https://github.com/shiafje/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofjablas&layout=compact)](https://github.com/shofjablas/github-readme-stats)
 </div>
 
 
 
 <!--
-**shiafje/shiafje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shofjablas/shofjablas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
