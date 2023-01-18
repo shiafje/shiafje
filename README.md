@@ -11,15 +11,9 @@
  
  
 
-<h3 align="center"> My Github Stats 😶</h3>
-
-[![shiafje's GitHub stats](https://github-readme-stats.vercel.app/api?username=shofjablas&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift)](https://github.com/shofjablas/github-readme-stats)
-
-  <h3 align="center"> Top Langs 😶</h3>
+ 
+![shofjablas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shofjablas&theme=swift&show_icons=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofjablas&layout=compact)](https://github.com/shofjablas/github-readme-stats)
-</div>
-
 
 
 <!--
