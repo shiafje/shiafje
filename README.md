@@ -2,7 +2,7 @@
 
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello!%20I'm%20Sehyun&fontSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello!%20I'm%20Sehyun&fontSize=100&animation=fadeIn)
   
 <!--
 **shofjablas/shofjablas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
