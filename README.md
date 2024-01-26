@@ -2,7 +2,7 @@
  
 ![giphy](https://github.com/shofjablas/shofjablas/assets/97035336/eb75483e-5f29-4493-8a81-4d0cb9285b94)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=4993&pause=1000&color=203DFF&background=000000&center=true&vCenter=true&random=false&width=500&lines=In+case+I+don't+see+ya%2C+good+afternoon%2C+good+evening%2C+and+good+night!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4993&pause=1000&color=2884FF&background=000000&center=true&vCenter=true&random=true&width=500&lines=In+case+I+don't+see+ya%2C;good+afternoon%2C+good+evening%2C+and+good+night!)](https://git.io/typing-svg)
 <!--
 **shofjablas/shofjablas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
