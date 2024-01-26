@@ -2,8 +2,7 @@
  
 ![giphy](https://github.com/shofjablas/shofjablas/assets/97035336/eb75483e-5f29-4493-8a81-4d0cb9285b94)
 
-*In case I don't see ya,*
-## *good afternoon, good evening, and good night!*
+*In case I don't see ya,* ## *good afternoon, good evening, and good night!*
  
 <!--![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello!%20I'm%20Sehyun&fontSize=50&animation=fadeIn)
 -->
