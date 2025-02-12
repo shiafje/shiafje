@@ -1,5 +1,4 @@
 <div align="center">
- 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=17&pause=1000&color=F7DE30&background=000000&center=true&vCenter=true&multiline=true&width=900&lines=Give+me+six+hours+to+chop+down+a+tree+and+I+will+spend+the+first+four+sharpening+the+axe.+-+A.Lincoln)](https://git.io/typing-svg)
 
